@@ -10,7 +10,7 @@ After a long journey filled with challenges, learning, and growth, I'm excited t
 ## 🔍 Key Features
 
 - 🌿 **Cost Reduction**: Optimize resource usage and reduce production costs.
-- 🧑‍🌾 **User-Friendly Interface**: Simple and intuitive, even for non-experts.
+- 🌱 **User-Friendly Interface**: Simple and intuitive, even for non-experts.
 - 🦠 **Disease Detection**: Detects plant diseases early using AI to prevent crop loss.
 - 🌐 **Smart Chatbot**: Enables users to interact with and control the greenhouse easily.
 - 📈 **Yearly Insights Report**: Forecasts electricity usage and market trends, with actionable recommendations.
