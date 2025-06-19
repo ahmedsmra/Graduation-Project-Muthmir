@@ -1,5 +1,7 @@
 # Graduation-Project-Muthmir 🌱
-# 🌱 Muthmir – Smart Agriculture Management System 🚀
+# 🌱 Muthmir – Smart Agriculture Management System 
+![Muthmir System Preview](./Muthmir.png)
+
 
 After a long journey filled with challenges, learning, and growth, I'm excited to present **Muthmir** – a **smart agriculture management system** that integrates **IoT**, **AI**, and **real-time data analytics** to revolutionize how greenhouses are managed.
 
