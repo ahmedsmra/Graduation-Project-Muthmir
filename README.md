@@ -63,6 +63,6 @@ Users can select custom time ranges and interact with live visualizations to tra
 
 🌐 Visit our project website: [https://lnkd.in/dhbZ763Q](https://lnkd.in/dhbZ763Q)
 
-🙏 A big thanks to my amazing teammates and our dedicated supervisor!
+ A big thanks to my amazing teammates and our dedicated supervisor!
 
 To see more details : https://docs.google.com/presentation/d/10OjHXKsBpMQohtFc9k7LqCltKVOqLEwa/edit?usp=sharing&ouid=106252203445565641078&rtpof=true&sd=true
